@@ -1,4 +1,4 @@
-## Hacktoberfest Kassel
+Hacktoberfest Kassel
 
 Hacktoberfest Meetup at fino.digital
 
