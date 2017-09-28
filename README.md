@@ -9,9 +9,6 @@ Science Park, Universitätsplatz 12, 34127 Kassel
 ### When
 
 October 14, 10 a.m. - 7 p.m. (or, as long as we want)
-Description
-
-It's Hacktoberfest 2017! Let's celebrate open source over food, drinks, learning, and great company!
 
 ### Agenda
 
