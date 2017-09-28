@@ -15,11 +15,24 @@ It's Hacktoberfest 2017! Let's celebrate open source over food, drinks, learning
 
 ### Agenda
 
-| --- | --- |
-| 10.00 | Meet & Greet | 
-| 10.15 | Intro (Talk) | 
-| 10.30 | Workshop: How to contribute to open source projects | 
-| 10.30 | Happy Hacking! | 
+<table align="center">
+    <tr>
+        <td align="center">10.00</td>
+        <td align="center">Meet and Greet</td>
+    </tr>
+    <tr>
+        <td align="center">10.15</td>
+        <td align="center"> Intro (Talk) </td>
+    </tr>
+    <tr>
+        <td align="center">10.30</td>
+        <td align="center">  Workshop: How to contribute to open source projects (Optional) </td>
+    </tr>  
+    <tr>
+        <td align="center">10.30</td>
+        <td align="center"> Happy Hacking! </td>
+    </tr>  
+</table>
 
 ## What's Hacktoberfest?
 
