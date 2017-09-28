@@ -8,4 +8,6 @@ TBD
 
 ### Where
 
-Universitätsplatz 12, 34127 Kassel, Science Park
+Science Park
+
+Universitätsplatz 12, 34127 Kassel
