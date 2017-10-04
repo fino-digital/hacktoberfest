@@ -1,6 +1,8 @@
-## Hacktoberfest Kassel
+## Hacktoberfest Meetup Kassel
 
-We at [fino digital](https://fino.digital/) are proud to announce that we are organizing a meetup for this year's *Hacktoberfest*!
+It's Hacktoberfest 2017! Let's celebrate open source over food, drinks, learning, and great company!
+
+We at [fino digital](https://fino.digital/) are proud to announce that we are organizing a meetup for this year's Hacktoberfest!
 
 ### Where
 
@@ -47,13 +49,10 @@ October 14, 10 a.m. - 7 p.m. (or, as long as we want)
         <td align="center" colspan="2"> TBD </td>
     </tr>    
 </table>
-
-
     
-    
-  
+## About Hacktoberfest  
 
-## What's Hacktoberfest?
+### What's Hacktoberfest?
 
 Hacktoberfest—brought to you by DigitalOcean and GitHub—is a month-long celebration of open source software. Maintainers are invited to guide would-be contributors towards issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like, and ones they've just discovered. No contribution is too small—bug fixes and documentation updates are valid ways of participating.
 
@@ -65,4 +64,4 @@ First sign up on the Hacktoberfest site. If you open up four pull requests betwe
 
 Connect with other Hacktoberfest participants (Hacktobefestants?) by using the hashtag, #Hacktoberfest, on your social media platform of choice.
 
-![](https://nyc3.digitaloceanspaces.com/hacktoberfest/Hacktoberfest17-250x250-02.png)
+[![](https://nyc3.digitaloceanspaces.com/hacktoberfest/Hacktoberfest17-250x250-02.png|alt=hacktoberfest)](https://hacktoberfest.digitalocean.com/)
