@@ -50,6 +50,11 @@ October 14, 10 a.m. - 7 p.m. (or, as long as we want)
     </tr>    
 </table>
     
+If you plan to attend it would be great if you could RSVP on meetup.com. This way we can get a rough idea how many snacks we have to buy:
+https://www.meetup.com/KasselCodeMeetup/events/243913808/  
+
+But don't worry, it's not required to RSVP. 
+
 ## About Hacktoberfest  
 
 ### What's Hacktoberfest?
