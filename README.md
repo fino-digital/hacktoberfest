@@ -17,36 +17,35 @@ October 14, 10 a.m. - 7 p.m. (or, as long as we want)
 <table align="center">
     <tr>
         <td align="center">10.00</td>
-        <td align="center" colspan="2">Meet and Greet</td>
+        <td align="center">Meet and Greet</td>
     </tr>
     <tr>
         <td align="center">10.15</td>
-        <td align="center" colspan="2"> Intro (Talk) </td>
+        <td align="center"> Intro (Talk) </td>
     </tr>
     <tr>
         <td align="center">10.30</td>
-        <td align="center">  Workshop: How to contribute to open source projects</td>
-        <td align="center" rowspan="2"> Happy Hacking! </td>
+        <td align="center">  Workshop: How to contribute to open source projects (Optional)</td>
     </tr>   
     <tr>
         <td align="center">11.00</td>
-        <td align="center">  Workshop: Git Basics </td>
+        <td align="center">  Workshop: Git Basics (Optional - skip this and just start working on something)</td>
     </tr>
     <tr>
     <td align="center">11.30</td>
-    <td align="center" colspan="2">  Happy Hacking! </td>
+    <td align="center"> Happy Hacking! </td>
     </tr>
     <tr>
         <td align="center">12.30</td>
-        <td align="center" colspan="2"> Lunch  </td>
+        <td align="center"> Lunch  </td>
     </tr>
     <tr>
         <td align="center">13.30</td>
-        <td align="center" colspan="2"> More hacking  </td>
+        <td align="center"> More hacking  </td>
     </tr>
     <tr>
         <td align="center">18.30</td>
-        <td align="center" colspan="2"> TBD </td>
+        <td align="center"> TBD </td>
     </tr>    
 </table>
     
