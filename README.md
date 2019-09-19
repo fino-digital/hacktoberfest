@@ -1,8 +1,8 @@
 ## Hacktoberfest Meetup Kassel
 
-It's Hacktoberfest 2017! Let's celebrate open source over food, drinks, learning, and great company!
+It's Hacktoberfest 2019! Let's celebrate open source over food, drinks, learning, and great company!
 
-We at [fino digital](https://fino.digital/) are proud to announce that we are organizing a meetup for this year's Hacktoberfest!
+We at [fino digital](https://fino.ai/) are proud to announce that we are organizing a meetup for this year's Hacktoberfest!
 
 ### Where
 
@@ -10,7 +10,7 @@ Science Park, Universitätsplatz 12, 34127 Kassel
 
 ### When
 
-October 14, 10 a.m. - 7 p.m. (or, as long as we want)
+October 19, 10 a.m. - 7 p.m. (or, as long as we want)
 
 ### Agenda
 
