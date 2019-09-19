@@ -16,38 +16,28 @@ October 19, 10 a.m. - 7 p.m. (or, as long as we want)
 
 <table align="center">
     <tr>
-        <td align="center">10.00</td>
+        <td align="center">11.00</td>
         <td align="center">Meet and Greet</td>
     </tr>
     <tr>
-        <td align="center">10.15</td>
+        <td align="center">12.00</td>
         <td align="center"> Intro (Talk) </td>
     </tr>
     <tr>
-        <td align="center">10.30</td>
-        <td align="center">  Workshop: How to contribute to open source projects (Optional)</td>
+        <td align="center">12.15</td>
+        <td align="center">How to contribute to open source projects (Optional)</td>
     </tr>   
     <tr>
-        <td align="center">11.00</td>
-        <td align="center">  Workshop: Git Basics (Optional - skip this and just start working on something)</td>
-    </tr>
-    <tr>
-    <td align="center">11.30</td>
-    <td align="center"> Happy Hacking! </td>
-    </tr>
-    <tr>
-        <td align="center">12.30</td>
-        <td align="center"> Lunch  </td>
-    </tr>
-    <tr>
         <td align="center">13.30</td>
-        <td align="center"> More hacking  </td>
+        <td align="center">Arduino Workshop</td>        
     </tr>
     <tr>
-        <td align="center">18.30</td>
-        <td align="center"> TBD </td>
-    </tr>    
+        <td align="center">15.00</td>
+        <td align="center"> Workshop / Vortrag 2 (tba) </td>
+    </tr>
 </table>
+
+There will be several more Workshops & Talks. 
     
 [If you plan to attend it would be great if you could RSVP on meetup.com.](https://www.meetup.com/KasselCodeMeetup/events/243913808/) This way we can get a rough idea how many snacks we have to buy. But don't worry, it's not required to RSVP. 
 
