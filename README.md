@@ -39,7 +39,7 @@ October 19, 10 a.m. - 7 p.m. (or, as long as we want)
 
 There will be several more Workshops & Talks. 
     
-[If you plan to attend it would be great if you could RSVP on meetup.com.](https://www.meetup.com/KasselCodeMeetup/events/243913808/) This way we can get a rough idea how many snacks we have to buy. But don't worry, it's not required to RSVP. 
+[If you plan to attend it would be great if you could RSVP on meetup.com.](https://www.meetup.com/de-DE/csharpUserKassel/events/265107391/) This way we can get a rough idea how many snacks we have to buy. But don't worry, it's not required to RSVP. 
 
 ## About Hacktoberfest  
 
