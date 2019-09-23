@@ -56,5 +56,5 @@ First sign up on the Hacktoberfest site. If you open up four pull requests betwe
 Connect with other Hacktoberfest participants (Hacktobefestants?) by using the hashtag, #Hacktoberfest, on your social media platform of choice.
 
 <a href="https://hacktoberfest.digitalocean.com/">
-  <img src="https://nyc3.digitaloceanspaces.com/hacktoberfest/Hacktoberfest17-250x250-02.png" alt="hacktoberfest">
+  <img src="https://raw.githubusercontent.com/fino-digital/hacktoberfest/master/hacktoberfest.png" alt="hacktoberfest">
 </a>
